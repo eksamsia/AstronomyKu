@@ -3,14 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/tyas/AndroidStudioProjects/AstronomyKu/app/src/main/res/drawable/rounded_edge.xml" value="0.1" />
-        <entry key="..\:/Users/tyas/AndroidStudioProjects/AstronomyKu/app/src/main/res/layout/activity_galaxy.xml" value="0.3333333333333333" />
-        <entry key="..\:/Users/tyas/AndroidStudioProjects/AstronomyKu/app/src/main/res/layout/activity_landscape.xml" value="0.22" />
-        <entry key="..\:/Users/tyas/AndroidStudioProjects/AstronomyKu/app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="..\:/Users/tyas/AndroidStudioProjects/AstronomyKu/app/src/main/res/layout/activity_moon.xml" value="0.22" />
-        <entry key="..\:/Users/tyas/AndroidStudioProjects/AstronomyKu/app/src/main/res/layout/activity_planet.xml" value="0.22" />
-        <entry key="..\:/Users/tyas/AndroidStudioProjects/AstronomyKu/app/src/main/res/layout/activity_sky.xml" value="0.22" />
-        <entry key="..\:/Users/tyas/AndroidStudioProjects/AstronomyKu/app/src/main/res/layout/activity_sun.xml" value="0.3333333333333333" />
+        <entry key="..\:/1 TRPL/SMT 4/PAPB 2/UAS/Astronomyku apk/AstronomyKu/app/src/main/res/layout/activity_splashscreen.xml" value="0.1" />
       </map>
     </option>
   </component>
