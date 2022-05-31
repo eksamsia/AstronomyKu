@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent gotomoon = new Intent(MainActivity.this,MoonActivity.class);
                 startActivity(gotomoon);
+
             }
         });
     }
